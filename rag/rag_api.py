@@ -32,7 +32,7 @@ def augment_prompt(input_data: PromptInput):
 
         final_prompt = f"""
                             Ești un secretar universitar bine informat, politicos și clar în explicații. Răspunde în limba română la întrebările studenților folosind informațiile din contextul oferit. Dacă întrebarea nu este acoperită de context, raspunde in baza cunostintelor tale precizand ca nu ai avut suficiente informatii in context si ai oferit informatii din cunostintele tale.
-                            
+
                             Răspunsurile trebuie să fie:
                             - clare și directe
                             - politicoase și profesioniste
