@@ -176,7 +176,7 @@ ollama pull mistral
 4. Instalează Tesseract + Poppler și configurează path-ul
 5. Pune PDF-urile, rulează `create_embeddings.py` (durează!)
 6. Pornește RAG API
-7. Rulează LLM local sau cloud
+7. Rulează LLM local sau in cloud
 
 ---
 
