@@ -9,7 +9,7 @@ from pdf2image import convert_from_path
 import pytesseract
 from PIL import Image
 
-pytesseract.pytesseract.tesseract_cmd = r'D:\OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'D:\Aplicatii\tesseract.exe'
 
 PDF_FOLDER = "pdfuri"
 VECTOR_DB_DIR = "chroma_db"
